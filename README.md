@@ -73,14 +73,14 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4) - Done, good
 - [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
 - [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
-- [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
-- [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM) - The exponent one 
+- [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic) - Gaurav Sen, CDN explained
+- [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM) - The exponent one, check it later
 - [Design Vending Machine](https://www.youtube.com/watch?v=D0kDMUgo27c)
 - [Design Distributed Key-Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
 - [Design Distributed Cache](https://www.youtube.com/watch?v=iuqZvajTOyA)
 - [Design Distributed Job Scheduler](https://towardsdatascience.com/ace-the-system-design-interview-job-scheduling-system-b25693817950)
-- [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90)
-- [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
+- [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90) - Done, not too detailed
+- [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk) - Very interesting, and detailed
 ### Medium
 - [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
