@@ -70,11 +70,11 @@ Learn System Design concepts and prepare for interviews using free resources.
 
 ## 💻 System Design Interview Problems
 ### Easy
-- [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
+- [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4) - Done, good
 - [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
 - [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
-- [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
+- [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM) - The exponent one 
 - [Design Vending Machine](https://www.youtube.com/watch?v=D0kDMUgo27c)
 - [Design Distributed Key-Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
 - [Design Distributed Cache](https://www.youtube.com/watch?v=iuqZvajTOyA)
