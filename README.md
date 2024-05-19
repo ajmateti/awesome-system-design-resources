@@ -82,7 +82,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90) - Done, not too detailed
 - [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk) - Very interesting, and detailed
 ### Medium
-- [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
+- [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE) - simple, generic template
 - [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
 - [Design WhatsApp](https://www.youtube.com/watch?v=vvhC64hQZMk)
 - [Design Facebook](https://www.youtube.com/watch?v=9-hjBGxuiEs)
