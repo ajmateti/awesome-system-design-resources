@@ -92,7 +92,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Design Youtube](https://www.youtube.com/watch?v=jPKTo1iGQiE)
 - [Design Google Search](https://www.youtube.com/watch?v=CeGtqouT8eA)
 - [Design E-commerce Store like Amazon](https://www.youtube.com/watch?v=EpASu_1dUdE)
-- [Design Spotify](https://www.youtube.com/watch?v=_K-eupuDVEc)
+- [Design Spotify](https://www.youtube.com/watch?v=_K-eupuDVEc) - Good template oriented
 - [Design TikTok](https://www.youtube.com/watch?v=Z-0g_aJL5Fw)
 - [Design Shopify](https://www.youtube.com/watch?v=lEL4F_0J3l8)
 - [Design Airbnb](https://www.youtube.com/watch?v=YyOXt2MEkv4)
